@@ -1,7 +1,8 @@
+# cible
+
 London, UK - April 2024
 
-![[01.webp]]
-
+![cible](./assets/cible.webp)
 
 Purpose: explain what is cible, why it makes sense and how is it going to work
 
@@ -103,58 +104,19 @@ PS: it's very important to note that it should be completely out of sacrum domai
 
 
 
-PS_2: 
-The good name for that would be something like: 
-* Cyberianism and the followers shuold be called cyberians 
 
-
-
-gh repo create cyberianism --private
-
-
-
-12 apos:
-* Elon Musk 
-* Sam Alman 
-* Paul Graham
-* Ray Dalio 
-* Jordan Peterson 
-* Douglas Murray 
-* Ben Shapiro 
-* Harari 
-* Bill Gates 
-* Andrew Ng?? 
-* Malcolm Gladwell? 
-It would be a good idea to have somebody from China, India and Muslim World as well. 
-
-
-
-
-
-git remote add origin https://github.com/mattbratos/cyberianism.git
-git branch -M main 
-git push -u origin main
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Enjoy the gallery of those made by AI after reading this essay 
+![cyberianism_1](./../cible/assets/cyberianism/cyberianism_1.webp)
+![cyberianism_2](./../cible/assets/cyberianism/cyberianism_2.webp)
+![cyberianism_3](./../cible/assets/cyberianism/cyberianism_3.webp)
+![cyberianism_4](./../cible/assets/cyberianism/cyberianism_4.webp)
+![cyberianism_5](./../cible/assets/cyberianism/cyberianism_5.webp)
+![cyberianism_6](./../cible/assets/cyberianism/cyberianism_6.webp)
+![cyberianism_7](./../cible/assets/cyberianism/cyberianism_7.webp)
+![cyberianism_8](./../cible/assets/cyberianism/cyberianism_8.webp)
+![cyberianism_9](./../cible/assets/cyberianism/cyberianism_9.webp)
+![cyberianism_10](./../cible/assets/cyberianism/cyberianism_10.webp)
+![cyberianism_11](./../cible/assets/cyberianism/cyberianism_11.webp)
+![cyberianism_12](./../cible/assets/cyberianism/cyberianism_12.webp)
+![cyberianism_13](./../cible/assets/cyberianism/cyberianism_13.webp)
+![cyberianism_14](./../cible/assets/cyberianism/cyberianism_14.webp)

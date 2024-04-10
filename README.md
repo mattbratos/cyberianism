@@ -2,28 +2,26 @@
 
 ## 🚀 Introduction
 
-Welcome to **Cyberianism** - the next evolution of collective belief! 🌟 Born from the digital ether and the need for a modern moral compass, Cyberianism is here to guide us into the future. 📡💡
+Welcome to **Cyberianism** - the next evolution of christiany for the digital age. Our approch isn't revolutionary rather evolutionary. We acknowaldge tramndus contributions that christiany and catholic church had for shaping and evolution of human kind and western civilisation, however we think that after over 2000 years it's time for an update. Our ambition is to take what's best from christianty and western culture, learn from our mistakes and create a new base for western society for upcoming mileniums.
 
-## ❓ What is Cyberianism?
+## 📖 Cible
 
+Cible (pronounced "cyble"), short for Cyber Bible, is the foundational text of Cyberianism. 📖✨ It's a modern open-source bible 2.0 that aims to provide a sensible set of rules, guidelines and a well calibrated moral compass for the digital age.
 
-
-## ❓ What is Cible?
-
-Cible (pronounced "cyble"), short for Cyber Bible, is the foundational text of Cyberianism. 📖✨ It's a digital-age scripture designed to provide a moral code, a sense of community, and a guide for collaboration in the rapidly evolving world. 🌍🔗
+To learn more read [cible](cible/cible.md)
 
 ## 🎯 Purpose
 
 1. **Modern Morality**: Offering a sensible moral code for the digital age. 🧭
 2. **Unity in Diversity**: Fostering collaboration and understanding across cultures. 🤝
-3. **Digital Hope**: Providing hope and purpose in a tech-centric world. 💖
-4. **Virtual Community**: Building a global community of Cyberians. 🌐
+3. **Hope and Purpose**: Providing hope and purpose in a tech-centric world. 💖
+4. **Community**: Building a global community of Cyberians. 🌐
 
 ## 🤔 Why Cyberianism?
 
 - **Upgrade Needed**: The old scriptures don't resonate in our digital, global village. 🔄
 - **Moral Compass**: A modern guide for navigating ethical dilemmas in tech and life. 🧭
-- **Inclusive Community**: A religion for atheists and believers alike, focusing on moral values and human progress. 🌈
+- **Inclusive Community**: A religion for hackers, rationalist and sceptics, focusing on moral values and human progress. 🌈
 
 ## 🛠 How It Works
 
@@ -38,4 +36,5 @@ Become a part of this groundbreaking movement. Whether you're a philosopher, tec
 ---
 
 👉 Dive into Cyberianism. Let's forge a path to a future filled with hope, innovation, and community. 🌟
+
 
